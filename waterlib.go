@@ -1,0 +1,5 @@
+package waterlib
+
+func CalculateWaterConsumption() {
+
+}
