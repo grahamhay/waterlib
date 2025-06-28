@@ -5,5 +5,5 @@ func CalculateWaterConsumption(FromReading string, UntilReading string) string {
 
 	// myArgs := strings.Split(FromReading, ",")
 	//	fmt.Println(FromReading, UntilReading)
-	return FromReading
+	return "000"
 }
